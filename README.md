@@ -13,12 +13,19 @@ Los escenarios tratados en el taller son:
 Se incluye en el repositorio una CheatSheet de Docker así como una explicación de cada uno de los escenarios tratados.
 
 Escenarios disponibles en https://www.katacoda.com/courses/docker/
+
 Documentación del taller disponible en https://github.com/sergarb1/TallerIntroduccionDocker
 
 Enlaces previos para conocer Docker:
+
     • Docker: https://es.wikipedia.org/wiki/Docker_(software)
+
     • Docker vs Hypervisor https://munzandmore.com/2015/cc/docker-container-vs-virtualization
+    
     • Video ¿Que es Docker?https://www.youtube.com/watch?v=1LRzlUoyZg4
+    
     • Instalar Docker: https://docs.docker.com/get-docker/
+    
         ◦ Para Windows 10 Home: https://github.com/docker/toolbo
+    
     • Interfaz gráfica Kitematic: https://github.com/docker/kitematic/releases
