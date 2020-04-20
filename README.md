@@ -9,6 +9,8 @@ Los escenarios tratados en el taller son:
 5) Create Data Containers
 6) Creating Networks Between Containers using Links
 7) Creating Networks Between Containers using Networks
+8) Load Balancing Containers
+9) Orchestration using Docker Compose
 
 Se incluye en el repositorio una CheatSheet de Docker así como una explicación de cada uno de los escenarios tratados.
 
